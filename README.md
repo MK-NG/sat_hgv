@@ -1,4 +1,4 @@
-# Detecting HGV's using Satellite Images :satellite::mag_right::camera:
+# Detecting HGV's using Satellite Images :satellite::camera::mag_right::truck:
 
 Using a trained Keras model, detect and count HGV's using Satellite Imagery
 
